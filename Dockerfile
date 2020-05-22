@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-LABEL maintainer "chikilov"
+LABEL maintainer="chikilov"
 
 # common update
 ENV LC_ALL C.UTF-8
